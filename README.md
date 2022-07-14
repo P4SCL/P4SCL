@@ -2,11 +2,7 @@
 
 <img align="right" alt="PC_GIF" src="https://github.com/P4SCL/P4SCL/blob/main/Assets/pc_escritorio.gif" width="270" />
 
-### **Hello World!** &nbsp;<img src="https://github.com/P4SCL/P4SCL/blob/main/Assets/Hi.gif" width="25px">&nbsp;&nbsp;<img src="https://github.com/P4SCL/P4SCL/blob/main/Assets/Earth.gif" width="22px">
-
-### Graduated from the career of Systems Engineering. &nbsp;<img src="https://github.com/P4SCL/P4SCL/blob/main/Assets/graduado.gif" width="30px">
-### I am a young man enthusiastic about the **development of Web Applications**, obsessed with improving his **skills** to grow and excel in the professional sphere.
-<br />
+### **Hello World!**
 
 ## Skills:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
