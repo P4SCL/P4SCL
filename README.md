@@ -19,5 +19,5 @@ And more...
 # Connect with me<img src="https://github.com/P4SCL/P4SCL/blob/main/Assets/Handshake.gif" height="32px">
 
 
-| [<img src="https://github.com/P4SCL/P4SCL/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/P4SCL) | [<img src="https://github.com/P4SCL/P4SCL/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:alezander.apch@gmail.com)
+| [<img src="https://github.com/P4SCL/P4SCL/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/alexanderpch) | [<img src="https://github.com/P4SCL/P4SCL/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:alezander.apch@gmail.com)
 |:---:|:---:|
